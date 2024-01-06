@@ -1,0 +1,15 @@
+2
+
+cus1
+111
+Rented
+Mehboob Alam
+UET
+12345
+
+cus2
+1111
+Available
+qweqweq
+wqeq
+03193799699

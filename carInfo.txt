@@ -1,0 +1,21 @@
+2
+
+car135
+Toyota
+2006
+Available
+rentCusId
+date
+0
+2
+200
+
+audi999
+Toyota
+2020
+Rented
+cus1
+Dec 19 2023
+3
+1
+300
